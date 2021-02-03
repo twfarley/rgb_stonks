@@ -10,7 +10,7 @@ symbol1 = "AMC"
 symbol2 = "GME"
 symbol3 = "AAPL"
 
-token = c0d1mk748v6oo0bff2r0
+token = "c0d1mk748v6oo0bff2r0"
 
 amc_params = (
     ('symbol', symbol1),
